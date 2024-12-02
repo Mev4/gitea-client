@@ -13,7 +13,7 @@ dependencies {
   val oltu_version = "1.0.2"
   val retrofit_version = "2.11.0"
   val swagger_annotations_version = "2.0.0"
-  val junit_version = "4.12"
+  val junit_version = "4.13.1"
   val threetenbp_version = "1.3.5"
   val json_fire_version = "1.8.0"
 
